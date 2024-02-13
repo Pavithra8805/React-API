@@ -1,0 +1,21 @@
+.book-container {
+  display: flex;
+  align-items: center;
+}
+
+.book-container img {
+  width: 150px; 
+  margin-right: 20px; 
+}
+
+.book-container p {
+  font-family: sans-serif;
+}
+
+.authors {
+  font-size: large;
+  font-style: oblique;
+  font-weight: 600;
+  margin-top: 15px;
+
+}
